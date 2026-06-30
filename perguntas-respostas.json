@@ -1,0 +1,25 @@
+{
+"tema": "Funcionamento de um Carro",
+  "perguntas": [
+    {
+      "pergunta": "Qual é a principal função do motor de um carro?",
+      "alternativas": [
+        "Frear o veículo",
+        "Transformar combustível em energia para movimentar o carro",
+        "Controlar a direção",
+        "Resfriar os pneus"
+      ],
+      "respostaCorreta": 1
+    },
+    {
+      "pergunta": "Qual componente é responsável por dar partida no motor?",
+      "alternativas": [
+        "Radiador",
+        "Motor de partida",
+        "Escapamento",
+        "Alternador"
+      ],
+      "respostaCorreta": 1
+    }
+  ]
+}
